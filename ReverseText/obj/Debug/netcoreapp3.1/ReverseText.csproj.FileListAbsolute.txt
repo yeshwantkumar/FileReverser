@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\InterviewTests.ReverseText\InterviewTests.ReverseText\ReverseText\obj\Debug\netcoreapp3.1\ReverseText.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\InterviewTests.ReverseText\InterviewTests.ReverseText\ReverseText\obj\Debug\netcoreapp3.1\ReverseText.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\InterviewTests.ReverseText\InterviewTests.ReverseText\ReverseText\obj\Debug\netcoreapp3.1\ReverseText.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\InterviewTests.ReverseText\InterviewTests.ReverseText\ReverseText\obj\Debug\netcoreapp3.1\ReverseText.AssemblyInfo.cs
+C:\Users\HP\Desktop\InterviewTests.ReverseText\InterviewTests.ReverseText\ReverseText\bin\Debug\netcoreapp3.1\ReverseText.exe
+C:\Users\HP\Desktop\InterviewTests.ReverseText\InterviewTests.ReverseText\ReverseText\bin\Debug\netcoreapp3.1\TestTextFile.txt
+C:\Users\HP\Desktop\InterviewTests.ReverseText\InterviewTests.ReverseText\ReverseText\bin\Debug\netcoreapp3.1\ReverseText.deps.json
+C:\Users\HP\Desktop\InterviewTests.ReverseText\InterviewTests.ReverseText\ReverseText\bin\Debug\netcoreapp3.1\ReverseText.runtimeconfig.json
+C:\Users\HP\Desktop\InterviewTests.ReverseText\InterviewTests.ReverseText\ReverseText\bin\Debug\netcoreapp3.1\ReverseText.runtimeconfig.dev.json
+C:\Users\HP\Desktop\InterviewTests.ReverseText\InterviewTests.ReverseText\ReverseText\bin\Debug\netcoreapp3.1\ReverseText.dll
+C:\Users\HP\Desktop\InterviewTests.ReverseText\InterviewTests.ReverseText\ReverseText\bin\Debug\netcoreapp3.1\ReverseText.pdb
+C:\Users\HP\Desktop\InterviewTests.ReverseText\InterviewTests.ReverseText\ReverseText\obj\Debug\netcoreapp3.1\ReverseText.dll
+C:\Users\HP\Desktop\InterviewTests.ReverseText\InterviewTests.ReverseText\ReverseText\obj\Debug\netcoreapp3.1\ReverseText.pdb
+C:\Users\HP\Desktop\InterviewTests.ReverseText\InterviewTests.ReverseText\ReverseText\obj\Debug\netcoreapp3.1\ReverseText.genruntimeconfig.cache
